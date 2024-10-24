@@ -1,0 +1,26 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+#about {
+    background-color: #f8f9fa;
+}
+
+h1, h2 {
+    color: #343a40;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    margin: 10px 0;
+}
+
+footer {
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+}
